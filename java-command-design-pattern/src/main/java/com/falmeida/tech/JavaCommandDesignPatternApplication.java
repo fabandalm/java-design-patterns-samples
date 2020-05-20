@@ -1,4 +1,4 @@
-package com.falmeida.tech.javacommanddesignpattern;
+package com.falmeida.tech;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
